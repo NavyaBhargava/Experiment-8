@@ -31,6 +31,7 @@ Iterate through values
 Print each number
 
 End
+
 ---
 
 # 2. Print Even Numbers from 2 to 10
@@ -49,6 +50,7 @@ Iterate through values
 Print each number
 
 End
+
 ---
 
 # 3. Sum of First N Natural Numbers
@@ -71,6 +73,7 @@ Add each number to sum
 Display the sum
 
 End
+
 ---
 
 # 4. Display 3×3 Matrix
@@ -93,6 +96,7 @@ Print each element
 Move to next line after each row
 
 End
+
 ---
 
 # 5. Multiplication of Two 3×3 Matrices
@@ -119,6 +123,7 @@ Store the result in result matrix
 Display the result matrix
 
 End
+
 ---
 
 # 6. Permutations of Three Numbers
@@ -139,6 +144,7 @@ Check that all selected elements are different
 Print valid combinations
 
 End
+
 ---
 
 # 7. Inverted Star Pattern
@@ -159,6 +165,7 @@ Print stars equal to the current value
 Move to next line after each iteration
 
 End
+
 ---
 
 # 8. Pyramid Star Pattern
@@ -181,6 +188,7 @@ Print stars i times
 Move to next line
 
 End
+
 ---
 
 ## Conclusion
